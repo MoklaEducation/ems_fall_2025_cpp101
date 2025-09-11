@@ -1,12 +1,15 @@
 # Intro To Programming using C++
 
-Course Material for programming class, for fall 2025 at EMS
+Course Material for programming class, for fall 2025 at EMS. 
+
+This file would be kept upated at [EMS_fall_2025_cpp101](https://github.com/MoklaEducation/ems_fall_2025_cpp101). Slides and assignments would be added progressively to this repository.
 
 
 ## Equipment
-- Device : Personal Laptop
+- Device : Personal Laptop with Administrator access
 - OS : Windows (any version is fine)
 - Specs : intel i5 (or AMD Ryzen 5) with >=8GB RAM
+- Software : Visual Studio Community Edition (**install before class**, setup steps below)
 
 ## Setup
 For this class students Visual Studio Community Edition from Microsoft. This can be found at [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/)
@@ -31,5 +34,6 @@ Crate a Hello World program
 - Once you see this screen , you are done. 
 ![alt text](images/setup/HelloWorldSuccess.png)
 
-#### You are now ready to start Learning
+## Done 
+You are now ready to learn. 
 
