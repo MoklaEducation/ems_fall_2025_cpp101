@@ -38,4 +38,4 @@ Crate a Hello World program
 ![alt text](images/setup/HelloWorldSuccess.png)
 
 ## Lets Learn 
-You are now ready to learn, join the class with 
+You are now ready to learn, join the class with charged laptop and lots of questions
