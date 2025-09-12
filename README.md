@@ -9,7 +9,7 @@ This file would be kept upated at [EMS_fall_2025_cpp101](https://github.com/Mokl
 - Devices : Personal Laptop with Administrator access
 - OS : Windows (any version is fine)
 - Specs : intel i5 (or AMD Ryzen 5) with >=8GB RAM
-- Software : Visual Studio Community Edition ( <span style="background-color: yellow;">**install before class**</span>, setup steps below)
+- Software : Visual Studio Community Edition (**install before class**, setup steps below)
 - Tools : Notebook and Pen/Pencils
 
 
