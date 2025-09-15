@@ -1,9 +1,7 @@
-# Intro To Programming using C++
+# Setup 
+## Intro To Programming using C++
 
-Course Material for programming class, for fall 2025 at EMS. 
-
-This file would be kept upated at [EMS_fall_2025_cpp101](https://github.com/MoklaEducation/ems_fall_2025_cpp101). Slides and assignments would be added progressively to this repository.
-
+Setup for the fall 2025 programming class at EMS. These needs to be done before class to have a working class.
 
 ## Equipment
 - Devices : Personal Laptop with Administrator access
@@ -13,8 +11,8 @@ This file would be kept upated at [EMS_fall_2025_cpp101](https://github.com/Mokl
 - Tools : Notebook and Pen/Pencils
 
 
-## Setup
-For this class students Visual Studio Community Edition from Microsoft. This can be found at [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/)
+## Software
+For this class students need Visual Studio Community Edition from Microsoft. This can be found at [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/)
 
 ### Install Steps
 - Dowload and run [Visual Studio Community Edition Setup](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
@@ -26,7 +24,7 @@ For this class students Visual Studio Community Edition from Microsoft. This can
 
 ### Verify Install
 
-Crate a Hello World program 
+Create a Hello World program 
 - Launch Visual Studio Community Edition from Start Menu 
 - Click Create New Project, Make sure to find "Console App" with C++
 ![alt text](images/setup/CppConsoleApp.png)
@@ -41,5 +39,6 @@ Crate a Hello World program
 You are now ready to learn, join the class with charged laptop and lots of questions
 
 ## Contact
+This file would be kept upated at [EMS_fall_2025_cpp101](https://moklaeducation.github.io/ems_fall_2025_cpp101/).
 
 [moklaeducation@gmail.com](mailto:moklaeducation@gmail.com)
