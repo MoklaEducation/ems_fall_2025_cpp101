@@ -39,6 +39,4 @@ Create a Hello World program
 You are now ready to learn, join the class with charged laptop and lots of questions
 
 ## Contact
-This file would be kept upated at [EMS_fall_2025_cpp101](https://moklaeducation.github.io/ems_fall_2025_cpp101/).
-
 [moklaeducation@gmail.com](mailto:moklaeducation@gmail.com)
