@@ -27,13 +27,13 @@ For this class students need Visual Studio Community Edition from Microsoft. Thi
 Create a Hello World program 
 - Launch Visual Studio Community Edition from Start Menu 
 - Click Create New Project, Make sure to find "Console App" with C++
-![alt text](images/setup/CppConsoleApp.png)
+![alt text](images/setup/CppConsoleApp_White.png)
 - Name your project "HelloWorld", Click Next
-![alt text](images/setup/ProjectName_HelloWorld.png)
+![alt text](images/setup/ProjectName_HelloWorld_White.png)
 - You should see the code like below, Click "Local Windows Debuger"
-![alt text](images/setup/HelloWorld_CodeWindow.png)
+![alt text](images/setup/HelloWorld_CodeWindow_White.png)
 - Once you see this screen , you are done. 
-![alt text](images/setup/HelloWorldSuccess.png)
+![alt text](images/setup/HelloWorldSuccess_White.png)
 
 ## Lets Learn 
 You are now ready to learn, join the class with charged laptop and lots of questions
